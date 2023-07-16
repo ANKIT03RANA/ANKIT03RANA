@@ -3,7 +3,7 @@
 
 This is my introductory repository!!!
 
-- 🔭 I’m currently a 4th year undergraduate student at Delhi Technical University (DTU)
+- 🔭 I’m currently a Project Egineer at Wipro
 - 💬 Ask me about competitive programming, web development, Artificial intelligence, software development.
 
 <!-- 
